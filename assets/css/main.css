@@ -1,5 +1,11 @@
 @import url(font-awesome.min.css);
 
+/* Authparty Additions */
+.partner-logo {
+	width: 100px;
+	height: 100px;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
