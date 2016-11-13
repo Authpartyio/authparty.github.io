@@ -6,6 +6,10 @@
 	height: 100px;
 }
 
+.pull-left {
+	float: left;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
