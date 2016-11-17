@@ -1,6 +1,10 @@
 @import url(font-awesome.min.css);
 
 /* Authparty Additions */
+.logo {
+	margin-left: -50px;
+}
+
 .partner-logo {
 	width: 100px;
 	height: 100px;
