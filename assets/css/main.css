@@ -5,6 +5,27 @@
 	margin-left: -50px;
 }
 
+.logo-menu {
+	margin-left: -55px;
+}
+
+@media (max-width:1280px) {
+	.logo-menu {
+		float: left;
+		position: absolute;
+		top: -10px;
+		left: 50px;
+		width: 150px;
+	}
+}
+
+.static {
+	clear:both;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+
 .partner-logo {
 	width: 100px;
 	height: 100px;
