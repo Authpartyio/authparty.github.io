@@ -35,6 +35,11 @@
 	float: left;
 }
 
+.qr-code {
+	padding: 5px;
+	background-color: #FFFFFF;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
