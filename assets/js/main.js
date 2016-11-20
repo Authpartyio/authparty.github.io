@@ -11,6 +11,8 @@ $(window).scroll(function(){
     }
 });
 
+/* Theme */
+
 (function($) {
 
 	skel.breakpoints({
